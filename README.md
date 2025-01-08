@@ -1,7 +1,12 @@
 # AMAZON_INTERVIEW_QUESTIONS
 AMAZON INTERVIEW QUESTIONS 
+''' SQL
 1. Retrieve the total number of customers in the database.
 
 SELECT 
 		COUNT(CUSTOMER_ID)AS TOTALCUTOMERS
 FROM ORDERS;
+
+
+
+'''
