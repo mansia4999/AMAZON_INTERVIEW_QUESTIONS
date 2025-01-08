@@ -10,3 +10,9 @@ SELECT
 FROM CUSTOMERS;
 
  ```
+ 2. Calculate the total number of sellers registered on Amazon.
+```SQL
+SELECT 
+	COUNT(SELLER_ID)AS TOTALSELLERS
+ FROM SELLERS;
+```
